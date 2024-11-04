@@ -18,7 +18,7 @@ bundle install
 ## Run in a local browser
 
 *  Clone the repo
-* `cd qgis-au-websote`
+* `cd qgis-au-website`
 * `bundle exec jekyll serve`
 
 => Now browse to http://localhost:4000
