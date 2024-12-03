@@ -1,0 +1,21 @@
+<div>
+  <h4>Categories</h4>
+
+  <ul id="facet-menu">
+    <li class="clear">
+      <a href="#">Clear all</a>
+    </li>
+    {% assign tags_list = site.tags | sort %}
+    {% for item in tags_list %}
+      {% assign tag_name = item[0] %}
+      {% assign tag_count = item[1].size %}
+      <li>
+        <a href="#{{ tag_name | replace: ' ', '%20' }}" class="tag">
+          <span class="tag-name">{{ tag_name }}</span>
+          <span class="count">({{ tag_count }})</span>
+        </a>
+      </li>
+    {% endfor %}
+
+  </ul>
+  

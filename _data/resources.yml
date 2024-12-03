@@ -1,0 +1,47 @@
+Australian QGIS community:
+  description: There are a few active community-driven open geospatial groups in communities around Australia.
+  items:
+  - title: GeoGeeks
+    link: https://geogeeks.org/
+    description: Geogeeks is a Perth meetup group having fun with open source GIS, with regular meetups and social hacking & mapping events.
+    thumbnail: geogeeks.png
+  - title: OSGeo Oceania
+    link: https://osgeo-oceania.org/
+    description: OSGeo Oceania is a volunteer organisation devoted to growing and enabling the OpenStreetMap and Open Source Geospatial communities in Oceania.
+    thumbnail: osgeo-oceania.png
+
+Official QGIS links:
+  description: These are some places to find QGIS things.
+  items:
+  - title: QGIS website
+    link: https://qgis.org/
+    description: The main QGIS project website
+    thumbnail: qgis-website-home.png
+  - title: QGIS blog
+    link: https://blog.qgis.org/
+    description: News from the QGIS project team
+    thumbnail: qgis-blog.png
+  - title: QGIS issue tracker
+    link: https://blog.qgis.org/
+    description: News from the QGIS project team
+    thumbnail:
+  - title: QGIS QEP tracker
+    link: https://blog.qgis.org/
+    description: News from the QGIS project team. I'm writing a long description that goes over too many lines.
+    thumbnail: qgis-blog.png
+  - title: QGIS plugins
+    link: https://blog.qgis.org/
+    description: News from the QGIS project team.
+    thumbnail: qgis-blog.png
+
+Related Projects:
+  description: Get your QGIS on.
+  items:
+  - title: PostGIS
+    link: https://postgis.net/
+    description: PostGIS is an open-source extension to the PostgreSQL dabase
+    thumbnail: qgis-blog.png
+  - title: PostGIS
+    link: https://postgis.net/
+    description: PostGIS is an
+    thumbnail: qgis-website-home.png

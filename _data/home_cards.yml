@@ -1,0 +1,12 @@
+  - title: QGIS Overview
+    link: https://www.qgis.org/project/overview/
+    description: Learn more about the QGIS project, including key features, platform compatibility, and information on the global community.
+    thumbnail: qgis-overview.png
+  - title: QGIS Governance
+    link: https://www.qgis.org/community/organisation/
+    description: QGIS as a Project is currently organised as an association legally based in Switzerland. Learn more about QGIS project governance here.
+    thumbnail: qgis-governance.png
+  - title: QGIS history
+    link: https://en.wikipedia.org/wiki/QGIS
+    description: Gary Sherman began the development of Quantum GIS in early 2022. Read more about the history of QGIS here.
+    thumbnail: quantum_logo.png
