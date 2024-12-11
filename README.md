@@ -25,6 +25,19 @@ bundle install
 
 
 # Daily start-up
+
+If using VS Code:
+* Open a new Terminal
+* `bundle exec jekyll serve`
+
 # Upload your changes
+
+If using VS Code:
+* Go to Source Control
+* Enter in the commit message
+* Click the + to stage the commit
+* From the Commit dropdown, select Commit & Sync
+
 # Add a page
 # Add an image
+# Update Home page image
