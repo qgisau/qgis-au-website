@@ -22,3 +22,9 @@ bundle install
 * `bundle exec jekyll serve`
 
 => Now browse to http://localhost:4000
+
+
+# Daily start-up
+# Upload your changes
+# Add a page
+# Add an image
