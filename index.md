@@ -15,7 +15,7 @@ If you're interested in getting involved, join the <a href="https://groups.googl
 
 <div class="feature">
 <h3>Shout out!</h3>
-<p>This group wouldn't be here without the work of Andrew Jeffrey, Emma Hain, John Bryant, Nathan Woodrow, and Nyall Dawson, who've kept us going and helped build this community. We're looking forward to getting even more people involved in shaping QGIS Australia's future!</p>
+<p>This group wouldn't be here without the work of Nathan Woodrow, Nyall Dawson, Andrew Jeffrey, Emma Hain, and John Bryant, who've kept us going and helped build this community. We're looking forward to getting even more people involved in shaping QGIS Australia's future!</p>
 </div>
 
 <div>
