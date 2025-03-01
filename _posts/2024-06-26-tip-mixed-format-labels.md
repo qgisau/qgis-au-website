@@ -3,7 +3,7 @@ layout: post
 title:  "Mixed Format Labels for dummies!"
 date:   2024-06-26 14:56:25 +1100
 author: Colin Mazengarb
-tag: [Hints and Tips]
+tag: [Hints and tips]
 ---
 
 Recently I wanted to try the mixed format labeling capability that North Road developed in 2022 for QGIS 3.28.

@@ -48,7 +48,7 @@ To add a standard page
 - Create a new markdown page in the root directory (e.g. test.md)
 - Add 'front matter' (i.e. the info at the top of the page). 
 - It will automatically show up in the top-level menu if you give it a title.
-- It will also automatically create the page title at the top of the page.
+- It will also automatically create the page title at the top of the page, so don't add another h1 tag to the page.
 - You can add markdown, or html, or both to the page.
 - example:
 
@@ -61,6 +61,7 @@ To add a standard page
   <div> 
     I am a test page
   </div>
+  
   ```
 
 
@@ -80,5 +81,25 @@ To add a standard page
 
 - responsive
 - image sizes and optimisation
-- fix the sub-footer section
 - write a github action
+
+
+# Posts
+
+- It needs to have a date format at the start of the file name to be published.
+- The date field in the 'front matter' (ie between the --- at the top of post) can be forward posted, but a rebuild needs to be triggered to pubish it after the date has past.
+- You should not start the post with an image. An excerpt from the beginning of your posts is what will show on the Posts page.
+- Author is optional.
+- Tag use should be consistent, paying special attention to use of captials. Inconsistent syntax will create a tag for each variation.
+- There is a TAGS.md file under posts - record any new tags you add and use exisiting tags from this list.
+- Images with no caption should use:
+  ``` 
+  <img class="centered-image" src="/assets/img/posts/image_name" alt="Image description"/> 
+  ```
+- Images with a caption should use:
+    ```
+    <figure class="centered-image">
+      <img src="/assets/img/posts/image_name" alt= "Image description"/>
+      <figcaption>This is the caption</figcaption>
+    </figure>
+    ```
