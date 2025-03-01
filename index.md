@@ -5,7 +5,7 @@ layout: home
 ## QGIS Australia's mission is to engage, support and grow the QGIS community throughout Australia.
 {: .intro-text}
 
-QGIS Australia started as a Google Group in 2012, with the goal of connecting the QGIS community across Australia. The discussion list is still going strong, with hundreds of users posting questions, answers, and discussion on QGIS-related topics. We've run a few organised events over the years, and we're always looking for more we can do as a community.
+QGIS Australia <a href="https://groups.google.com/g/australian-qgis-user-group/c/KqidzAkCamw" target="_blank">started as a Google Group in 2012</a>, with the goal of connecting the QGIS community across Australia. The discussion list is still going strong, with hundreds of users posting questions, answers, and discussion on QGIS-related topics. We've run a few organised events over the years, and we're always looking for more we can do as a community.
 
 Whether you're a casual user, a professional, a student, or just curious, we're always looking to connect, so please join us! We're Australia-focused, but anyone is welcome to participate. We're an active, welcoming group, here to help each other learn, share, and grow in our QGIS skills.
 
@@ -18,7 +18,7 @@ If you're interested in getting involved, join the <a href="https://groups.googl
 <!-- If you're thinking about starting a QGIS group in your own country, we'd love to help you get started! -->
 
 <div>
-<h2>The QGIS Project</h2>
+<h2>About QGIS</h2>
 <p>This open source software initiative has evolved over the years, through community-driven development, governance, and a shared commitment to providing powerful, accessible, and free GIS tools for everyone.</p>
 <p>Learn more:</p>
     <div class="resource-grid">
