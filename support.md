@@ -4,15 +4,15 @@ layout: default
 ---
 
 <div>
+  <h2>Community support</h2>
+  <p>There are many free community resources available through mailing lists, YouTube videos, free tutorials and more! Check out our <a href="../resources">Resources</a> and the QGIS <a href="https://qgis.org/resources/support/" target="_blank">Contact and Support page</a> for more information.</p>
+
   <h2>Commercial support</h2>
-
-  <p>The QGIS project maintains a register of recognised <a href="https://qgis.org/resources/support/commercial-support/" target="_blank">QGIS support providers</a>, including a few Australia-based companies.</p>
-
-  <h3>Core Contributors</h3>
-
-  <p>A QGIS Core Contributor is a developer or community member who actively contributes to the core development, maintenance, and improvement of the QGIS software.   We have two - Chartis,   and North Road</p>
+  <p>If you need professional support, there are many options available. The QGIS project maintains a register of recognised <a href="https://qgis.org/resources/support/commercial-support/" target="_blank">QGIS support providers</a>. There are a few Australian companies on this list, including QGIS core contributors North Road and Chartis Technology.</p>
 
   <h2>Current Australian QGIS Sustaining members</h2>
+  <p>Sustaining members are financial contributors to the QGIS project, providing about 2/3 of the total project budget.</p>
+
   <div class="icon-group mb-8">
     <h4>Medium</h4>
     <div class="grid grid-cols-4">
