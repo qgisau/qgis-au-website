@@ -1,47 +1,35 @@
-Australian QGIS community:
-  description: There are a few active community-driven open geospatial groups in communities around Australia.
+Connect with the QGIS community:
+  description: The QGIS community is global, regional, and local. Join the discussion, ask and answer questions, attend a meetup, find your people!
   items:
-  - title: GeoGeeks
+  - title: QGIS Australia discussion list
+    link: https://groups.google.com/g/australian-qgis-user-group
+    description: Join this forum to share knowledge and discuss Australia-specific QGIS topics.
+    thumbnail: qgis-australia.png
+  - title: Geogeeks Perth
     link: https://geogeeks.org/
-    description: Geogeeks is a Perth meetup group having fun with open source GIS, with regular meetups and social hacking & mapping events.
+    description: In Perth? Join this group having fun with open source GIS, with regular speaker nights, hack nights & OSM mapping parties.
     thumbnail: geogeeks.png
-  - title: OSGeo Oceania
-    link: https://osgeo-oceania.org/
-    description: OSGeo Oceania is a volunteer organisation devoted to growing and enabling the OpenStreetMap and Open Source Geospatial communities in Oceania.
-    thumbnail: osgeo-oceania.png
+  - title: Global QGIS community
+    link: https://qgis.org/resources/support/
+    description: Connect with the global QGIS community of users, developers, and contributors.
+    thumbnail: default.png
 
-Official QGIS links:
-  description: These are some places to find QGIS things.
+Links from the QGIS project:
+  description: A few key resources direct from the QGIS project.
   items:
   - title: QGIS website
     link: https://qgis.org/
-    description: The main QGIS project website
+    description: Learn more about the QGIS project and community, download QGIS, find resources, and much more!
     thumbnail: qgis-website-home.png
   - title: QGIS blog
     link: https://blog.qgis.org/
-    description: News from the QGIS project team
+    description: Keep up on the latest news from the QGIS project team.
     thumbnail: qgis-blog.png
   - title: QGIS issue tracker
-    link: https://blog.qgis.org/
-    description: News from the QGIS project team
-    thumbnail:
-  - title: QGIS QEP tracker
-    link: https://blog.qgis.org/
-    description: News from the QGIS project team. I'm writing a long description that goes over too many lines.
-    thumbnail: qgis-blog.png
+    link: https://github.com/qgis/qgis/issues
+    description: Something not working quite right? Time to contribute! Lodge a bug report here.
+    thumbnail: qgis-issue-tracker.png
   - title: QGIS plugins
-    link: https://blog.qgis.org/
-    description: News from the QGIS project team.
-    thumbnail: qgis-blog.png
-
-Related Projects:
-  description: Get your QGIS on.
-  items:
-  - title: PostGIS
-    link: https://postgis.net/
-    description: PostGIS is an open-source extension to the PostgreSQL dabase
-    thumbnail: qgis-blog.png
-  - title: PostGIS
-    link: https://postgis.net/
-    description: PostGIS is an
-    thumbnail: qgis-website-home.png
+    link: https://plugins.qgis.org/
+    description: Learn more about the excellent free plugins available to extend the QGIS interface, and find out how to contribute your own!
+    thumbnail: qgis-plugins.png

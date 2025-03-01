@@ -20,7 +20,7 @@ If you're interested in getting involved, join the <a href="https://groups.googl
 <div>
 <h2>The QGIS Project</h2>
 <p>This open source software initiative has evolved over the years, through community-driven development, governance, and a shared commitment to providing powerful, accessible, and free GIS tools for everyone.</p>
-<p>To learn more, check out some of the links below.</p>
+<p>Learn more:</p>
     <div class="resource-grid">
         <div class="grid grid-cols-3">
     {% for card in site.data.home_cards %}
