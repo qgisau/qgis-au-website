@@ -16,14 +16,14 @@
 }
 
 @font-face {
-	font-family: "Display Bold";
+	font-family: "RedHat Bold";
 	src: url("../assets/fonts/RedHat/RedHatDisplay-Medium.ttf");
 }
 
 $base-font-family: "RedHatRegular", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $bold-font-family: "Lato Bold", sans-serif;
-$title-font: "Display Bold";
-$display-font: "Display Bold";
+$title-font: "RedHat Bold";
+$display-font: "RedHat Bold";
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;

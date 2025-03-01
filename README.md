@@ -38,6 +38,10 @@ If using VS Code:
 * Click the + to stage the commit
 * From the Commit dropdown, select Commit & Sync
 
+
+### Theming
+If you are overriding the css, you must use the scss files (which get built as css on deploy).
+
 ### Adding a page
 
 To add a standard page

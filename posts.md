@@ -9,7 +9,7 @@ permalink: /posts/
     <div class="post" data-tags="{{ post.tags | join: ',' }}">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.date | date: "%e %b %Y"  }}</p>
-      <p>Posted by: {{ post.author }}</p>
+      <p>By: {{ post.author }}</p>
       <p>{{ post.excerpt }}</p>
       <p>Tags: {{ post.tags | join: ', ' }}</p>
     </div>

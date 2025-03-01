@@ -112,6 +112,14 @@
   background-color: $dark-contrast;
   color: white;
   font-family: $bold-font-family;
+  .button {
+    display: inline-block;
+    border: 2px solid $blue;
+    padding: 2px 5px;
+    a:hover {
+      color: white;
+    }
+  }
 }
 
 .footer-heading {
@@ -119,24 +127,20 @@
   margin-bottom: $spacing-unit * 0.5;
 }
 
-.contact-list,
-.social-media-list {
-  display: flex;
-  align-items: center;
-  gap: .5rem;
+.socials {
+  text-align: right;
+  .contact-list,
+  .social-media-list {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    justify-self: flex-end;
+    text-align: right;
+  }
 }
 
 .footer-col-wrapper {
   display: grid;
-  // grid-template-columns: 2fr 1fr;
-}
-
-
-.footer-col-1 {
-}
-
-.footer-col-2 {
-
 }
 
 
@@ -233,5 +237,9 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+
+  figure {
+    max-width: 600px;
   }
 }

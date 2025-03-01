@@ -26,6 +26,7 @@
    display: flex;
    min-height: 100vh;
    flex-direction: column;
+   line-height: 1.8rem;
  }
  
  
@@ -215,8 +216,8 @@
   */
  
  .svg-icon {
-     width: 16px;
-     height: 16px;
+     width: 25px;
+     height: 25px;
      display: inline-block;
      fill: #{$qgis-green};
      padding-right: 5px;

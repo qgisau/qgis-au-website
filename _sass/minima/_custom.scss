@@ -24,24 +24,28 @@ h2 {
 }
 
 .grid-cols-2 {
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .grid-cols-3 {
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .grid-cols-4 {
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .grid-cols-5 {
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(5, 1fr);
   gap: 4rem;
 }
 
 .mb-8 {
   margin-bottom: 2rem;
+}
+
+.mt-1 {
+  margin-top: 1rem;
 }
 
 .mt-8 {
@@ -67,18 +71,6 @@ h2 {
   margin-top: 0;
 }
 
-.connect {
-  background-color: white;
-  border-top: thin solid grey;
-  .wrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
-    text-align: center;
-  }
-}
 
 .card-wrapper {
   padding: 10px;
@@ -155,4 +147,27 @@ h2 {
   padding-left: 2rem;
   background: $grey-color-light;
   border-radius: 5px;
+}
+
+
+@media (min-width: 640px) {
+  .sm\:grid-cols-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .sm\:grid-cols-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .md\:grid-cols-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .md\:grid-cols-5 {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
 }

@@ -36,13 +36,30 @@ layout: default
 
   <h3>QGIS Sustaining Members in Australia</h3>
 
-  <div class="icon-group mb-8">
-    <h4>Medium</h4>
-    <div class="grid grid-cols-4">
+{% assign member_levels = "Medium,Small,Flagship,Large" | split: "," %}
+
+{% for level in member_levels %}
+  {% assign has_members = false %}
+  
+  {% for member in site.data.sustaining.rss.channel.item %}
+    {% if member.member_country == "Australia" and member.member_level == level %}
+      {% assign has_members = true %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if has_members %}
+    <div class="icon-group mb-8">
+      <h4>{{ level }}</h4>
+      {% assign grid_class = "md:grid-cols-4" %}
+      {% if level == "Small" %}
+        {% assign grid_class = " md:grid-cols-5" %}
+      {% endif %}
+      <div class="grid grid-cols-2 sm:grid-cols-3 {{ grid_class }}">
         {% assign seen_members = "" %}
         {% for member in site.data.sustaining.rss.channel.item %}
           {% assign member_key = member.title | append: member.member_url %}  
-          {% if member.member_country == "Australia" and member.member_level == "Medium" %}
+          {% if member.member_country == "Australia" and member.member_level == level %}
             {% unless seen_members contains member_key %}
               <div class="sustaining-members">
                 <a href="{{ member.member_url }}" target="_blank">
@@ -53,27 +70,10 @@ layout: default
             {% endunless %}
           {% endif %}
         {% endfor %}
+      </div>
     </div>
-  </div>
+  {% endif %}
+{% endfor %}
 
-  <div class="icon-group mb-8">
-    <h4>Small</h4>
-    <div class="grid grid-cols-5">
-        {% assign seen_members = "" %}
-        {% for member in site.data.sustaining.rss.channel.item %}
-          {% assign member_key = member.title | append: member.member_url %}
-          {% if member.member_country == "Australia" and member.member_level == "Small" %}
-            {% unless seen_members contains member_key %}
-              <div class="sustaining-members">
-                <a href="{{ member.member_url }}" target="_blank">
-                  <img src="{{ member.image_url }}" alt="{{ member.title }}">
-                </a>
-              </div>
-              {% assign seen_members = seen_members | append: member_key | append: "," %}
-            {% endunless %}
-          {% endif %}
-        {% endfor %}
-    </div>
-  </div>
 
 </div>
