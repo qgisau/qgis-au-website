@@ -5,7 +5,6 @@ permalink: /resources/
 ---
 
 <div>
-  <h1>Resources</h1>
   {% for section in site.data.resources %}
     <div class="resource-grid">
       <h2>{{ section[0] }} </h2>

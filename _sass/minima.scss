@@ -11,18 +11,18 @@
 }
 
 @font-face {
-	font-family: "Title";
+	font-family: "RedHatRegular";
 	src: url("../assets/fonts/RedHat/RedHatDisplay-Regular.ttf");
 }
 
 @font-face {
 	font-family: "Display Bold";
-	src: url("../assets/fonts/Roboto/RobotoCondensed-Medium.ttf");
+	src: url("../assets/fonts/RedHat/RedHatDisplay-Medium.ttf");
 }
 
-$base-font-family: "Title", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: "RedHatRegular", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $bold-font-family: "Lato Bold", sans-serif;
-$title-font: "Title";
+$title-font: "Display Bold";
 $display-font: "Display Bold";
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;

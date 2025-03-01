@@ -30,13 +30,14 @@ github_username:  qgisau
 youtube_username: qgisau
 linkedin_username: qgis-australia
 slack:   https://maptimeoceania.slack.com/join/shared_invite/zt-2f2guao4i-EKr2fPTnoJMXkdbbOJJZCw#/shared-invite/email
-bluesky_username: "@qgis-australia.org"
+bluesky_username: qgis-australia.org
 
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-get-json
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,3 +58,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+jekyll_get_json:
+  - data: sustaining
+    json: 'https://changelog.qgis.org/en/qgis/members/json/'

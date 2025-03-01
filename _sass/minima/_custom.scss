@@ -10,6 +10,14 @@ a {
   }
 }
 
+h2 {
+  margin-top: 3rem;
+}
+
+.post-content h2 {
+  font-size: 1.5rem;
+}
+
 .grid {
   display: grid;
   gap: 2em;
@@ -27,6 +35,19 @@ a {
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
+.grid-cols-5 {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 4rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .jumbo-img {
   position: relative;
 }
@@ -37,12 +58,14 @@ a {
   right: 5px;
   font-size: 0.8rem;
   color: white;
+  &.text-black {
+    color: black;
+  }
 }
 
-// .intro-text {
-//   max-width: 800px;
-//   margin: 0 auto;
-// }
+.intro-text {
+  margin-top: 0;
+}
 
 .connect {
   background-color: white;
@@ -113,4 +136,23 @@ a {
 
 .post .grid-cols-2 {
   grid-template-columns: auto 200px;
+}
+
+.sustaining-members {
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+  img {
+    max-height: 100px;
+    width: 100%;
+  }
+}
+
+.feature {
+  border-left: 3px solid $qgis-green-light;
+  padding: 1rem;
+  margin: 2rem 0;
+  padding-left: 2rem;
+  background: $grey-color-light;
+  border-radius: 5px;
 }

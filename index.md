@@ -11,13 +11,15 @@ Whether you're a casual user, a professional, a student, or just curious, we're 
 
 If you're interested in getting involved, join the <a href="https://groups.google.com/g/australian-qgis-user-group" target="_blank">QGIS Australia discussion list</a> and introduce yourself. We'd love to hear from you!
 
-This group wouldn't be here without the work of Andrew Jeffrey, John Bryant, Nathan Woodrow, Nyall Dawson, and Emma Hain, who've kept us going and helped build this community. We're looking forward to getting even more people involved in shaping QGIS Australia's future.
+<div class="feature">
+<h3>Shout out!</h3>
+<p>This group wouldn't be here without the work of Andrew Jeffrey, Emma Hain, John Bryant, Nathan Woodrow, and Nyall Dawson, who've kept us going and helped build this community. We're looking forward to getting even more people involved in shaping QGIS Australia's future. </p></div>
 
 <!-- If you're thinking about starting a QGIS group in your own country, we'd love to help you get started! -->
 
 <div>
 <h2>The QGIS Project</h2>
-<p>This open-source software initiative has evolved over the years, through community-driven development, governance, and a shared commitment to providing powerful, accessible, and free GIS tools for everyone.</p>
+<p>This open source software initiative has evolved over the years, through community-driven development, governance, and a shared commitment to providing powerful, accessible, and free GIS tools for everyone.</p>
 <p>To learn more, check out some of the links below.</p>
     <div class="resource-grid">
         <div class="grid grid-cols-3">

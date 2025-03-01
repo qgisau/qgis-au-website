@@ -4,7 +4,7 @@
     thumbnail: qgis-overview.png
   - title: QGIS Governance
     link: https://www.qgis.org/community/organisation/
-    description: QGIS as a Project is currently organised as an association legally based in Switzerland. Learn more about QGIS project governance here.
+    description: QGIS as a "project" is currently organised as an association legally based in Switzerland. Learn more about QGIS project governance here.
     thumbnail: qgis-governance.png
   - title: QGIS history
     link: https://en.wikipedia.org/wiki/QGIS

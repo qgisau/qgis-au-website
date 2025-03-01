@@ -38,6 +38,43 @@ If using VS Code:
 * Click the + to stage the commit
 * From the Commit dropdown, select Commit & Sync
 
-# Add a page
+### Adding a page
+
+To add a standard page
+- Create a new markdown page in the root directory (e.g. test.md)
+- Add 'front matter' (i.e. the info at the top of the page). 
+- It will automatically show up in the top-level menu if you give it a title.
+- It will also automatically create the page title at the top of the page.
+- You can add markdown, or html, or both to the page.
+- example:
+
+  ```
+  ---
+  layout: default
+  title: Test Page
+  ---
+
+  <div> 
+    I am a test page
+  </div>
+  ```
+
+
 # Add an image
-# Update Home page image
+
+### Changing the home page image
+
+1. Edit the header_image.yml file under _data
+2. Upload an image in assets/img/home/header
+  - Prefered dimensions of the image are something like 2500px x 600px (a smaller height is better if the image allows). 
+  - Prefered format is .webp (this is optimised for web), but other formats are fine. 
+  - Small is good - if its 300 dpi then downsize it to something like 72dpi. You can try optimising is with the free version of tinify: https://tinypng.com/. Aim for under 500 KB
+  - check whether dark text or light text shows better for the description and adjust in the header_image.yml file.
+
+
+### Notes to self (cholena)
+
+- responsive
+- image sizes and optimisation
+- fix the sub-footer section
+- write a github action
