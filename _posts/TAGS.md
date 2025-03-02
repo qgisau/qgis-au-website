@@ -11,3 +11,4 @@
 - QGIS plugins
 
 - QGIS AU
+- QGIS

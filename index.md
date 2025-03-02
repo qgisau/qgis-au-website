@@ -9,7 +9,7 @@ QGIS Australia <a href="https://groups.google.com/g/australian-qgis-user-group/c
 
 We became an official <a href="https://www.qgis.org/community/groups/" target="_blank">QGIS User Group</a> in 2017, we've run a few organised events over the years, and we're always looking for more we can do as a community.
 
-Whether you're a casual user, a professional, a student, or just curious, we're always looking to connect, so please join us! We're Australia-focused, but anyone is welcome to participate. We're an active, welcoming group, here to help each other learn, share, and grow in our QGIS skills.
+Whether you're a professional, a student, a casual user, or just curious, we're always looking to connect, so please join us! We're Australia-focused, but anyone is welcome to participate. We're an active, welcoming group, here to help each other learn, share, and grow in our QGIS skills.
 
 If you're interested in getting involved, join the <a href="https://groups.google.com/g/australian-qgis-user-group" target="_blank">QGIS Australia discussion list</a> and introduce yourself. We'd love to hear from you!
 
