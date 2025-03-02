@@ -1,6 +1,26 @@
 <div class="social-media-list">
-  {%- if site.bluesky_username -%}<div><a target="_blank" href="https://bsky.app/profile/{{ site.bluesky_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#bluesky' | relative_url }}"></use></svg></a></div>{%- endif -%}
-  {%- if site.linkedin_username -%}<div><a target="_blank" href="https://www.linkedin.com/company/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> </a></div>{%- endif -%}
-  {%- if site.github_username -%}<div><a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a></div>{%- endif -%}
-  <!-- {%- if site.youtube_username -%}<div><a target="_blank" href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg></a></div>{%- endif -%} -->
+  {%- if site.bluesky_username -%}
+    <div>
+      <a target="_blank"
+      href="https://bsky.app/profile/{{ site.bluesky_username| cgi_escape | escape }}"><svg class="svg-icon">
+        <use xlink:href="{{ '/assets/minima-social-icons.svg#bluesky' | relative_url }}"></use>
+      </svg></a>
+    </div>
+  {%- endif -%}
+  {%- if site.linkedin_username -%}
+    <div>
+      <a target="_blank"
+      href="https://www.linkedin.com/company/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon">
+        <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
+      </svg> </a>
+    </div>
+  {%- endif -%}
+  {%- if site.github_username -%}
+  <div>
+    <a target="_blank"
+      href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon">
+        <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
+      </svg></a>
+    </div>
+    {%- endif -%}
 </div>
