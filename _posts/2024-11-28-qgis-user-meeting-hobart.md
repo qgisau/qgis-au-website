@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "QGIS Regional User Meeting Hobart 2024"
+title:  "QGIS Australia User Meeting Hobart 2024"
 date:   2024-11-28 14:56:25 +1100
 author: Emma
 tags: [Events, QGIS AU]
 
 ---
-
 
 In the lead-up to FOSS4G SotM Oceania 2024, QGIS Australia hosted an event on Monday 4th November in Hobart to bring together QGIS users from across Australia.
 
@@ -37,8 +36,8 @@ This event would not have been possible without the incredible talents and coord
 
 Em Hain, Leo Ghigone (venue), Cholena Smart (t-shirts & stickers), John Bryant, Colin Mazengarb, Gaby Stannus, Simon Gatenby, and Dawn Hendrick (logistics and catering). 
 
-Thanks also go to [Mammoth Geospatial](https://mammothgeospatial.com/) and [North Road](https://north-road.com/) for providing their resources and staff support.
+<p>Thanks also go to <a href="https://mammothgeospatial.com/" target="_blank">Mammoth Geospatial</a> and <a href="https://north-road.com/" target="_blank">North Road</a> for providing their resources and staff support.</p>
 
-Finally, thank-you to our financial sponsor, [OSGeo Oceania](https://osgeo-oceania.org/), who supported through their grants program.
+<p>Finally, thank you to our financial sponsor, <a href="https://osgeo-oceania.org/" target="_blank">OSGeo Oceania</a>, who supported through their grants program.</p>
 
 <img class="centered-image" src="/assets/img/posts/UM2024dawn.png" alt= "Dawn"/>
