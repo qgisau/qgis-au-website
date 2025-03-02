@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "QGIS Regional User Meeting Hobart 2024"
+title:  "QGIS Australia User Meeting Hobart 2024"
 date:   2024-11-28 14:56:25 +1100
 author: Emma
 tags: [Events, QGIS AU]
 
 ---
-
 
 In the lead-up to FOSS4G SotM Oceania 2024, QGIS Australia hosted an event on Monday 4th November in Hobart to bring together QGIS users from across Australia.
 
