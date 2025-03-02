@@ -28,6 +28,7 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+  z-index: 1;
 
   .nav-trigger {
       display: none;
@@ -128,13 +129,13 @@
 }
 
 .socials {
-  text-align: right;
+  text-align: center;
   .contact-list,
   .social-media-list {
     display: flex;
     align-items: center;
     gap: .5rem;
-    justify-self: flex-end;
+    justify-self: center;
     text-align: right;
   }
 }

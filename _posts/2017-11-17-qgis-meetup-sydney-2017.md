@@ -10,3 +10,8 @@ This was our first big event. We had around 60 people come to the University of 
 
 <a href="https://github.com/qgisau/meetups/wiki/Australian-QGIS-user-group-meetup-2017" target="_blank">This wiki page</a> has more details, and <a href="https://www.youtube.com/playlist?list=PLQbaw-XC9jWFsTbZlIyoYLGsE4iZEUjFM" target="_blank">all the talks were recorded and are available here.</a>
 
+<div class="inline-images">
+  <img class="centered-image w-33" src="/assets/img/posts/andrew_2017.png" alt="Andrew presenting"/>
+  <img class="centered-image w-33" src="/assets/img/posts/nyall_2017.png" alt="Nyall presenting"/>
+  <img class="centered-image w-33" src="/assets/img/posts/nathan_2017.png" alt="Nathan presenting"/>
+<div>

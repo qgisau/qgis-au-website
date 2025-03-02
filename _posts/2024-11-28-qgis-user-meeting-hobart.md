@@ -10,7 +10,10 @@ tags: [Events, QGIS AU]
 
 In the lead-up to the FOSS4G SotM Oceania 2024 Hobart Conference, QGIS Australia hosted an event on Monday, 4th November, to bring together QGIS users from across Australia and conference attendees.
 
-<img class="centered-image" src="/assets/img/posts/QGIS_UM_rounded_small.jpg" alt="Group photo"/>
+<div class="inline-images">
+  <img class="centered-image w-50" src="/assets/img/posts/QGIS_UM_rounded_small.jpg" alt="Group photo"/>
+  <img class="centered-image w-50" src="/assets/img/posts/2024_meeting_logo.png" alt="Logo"/>
+</div>
 
 The Institute for Marine and Antarctic Studies (IMAS) in Salamanca supported the event by providing us with the venue where the participants gathered in the downstairs seminar room, situated right on the docks with a view of the research vessels. This marked our second-ever QGIS User Meeting, aimed at engaging, inspiring, and fostering connections within our community.
 

@@ -60,3 +60,14 @@ plugins:
 jekyll_get_json:
   - data: sustaining
     json: 'https://changelog.qgis.org/en/qgis/members/json/'
+
+
+nav:
+  - title: Resources
+    url: /resources/
+  - title: Support
+    url: /support/
+  - title: Posts
+    url: /posts/
+  - title: Events
+    url: /posts/#Events

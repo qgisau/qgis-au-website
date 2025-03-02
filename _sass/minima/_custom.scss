@@ -162,6 +162,29 @@ h2 {
   margin-right: auto;
   max-width: 600px;
   text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.inline-images {
+  display: flex;
+  flex-flow: wrap;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  a {
+    display: contents;
+  }
+}
+
+.order-1 {
+  order: 1;
+}
+.order-2 {
+  order: 2;
+}
+
+#facet-menu a.active {
+  color: $desert-red;
 }
 
 
@@ -169,8 +192,36 @@ h2 {
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, 1fr);
   }
+  .sm\:grid-cols-2-custom {
+    grid-template-columns: 1fr 300px;
+  }
   .sm\:grid-cols-3 {
     grid-template-columns: repeat(3, 1fr);
+  }
+  .w-25 {
+    max-width: 23%;
+  }
+  
+  .w-33 {
+    max-width: 33%;
+  }
+  
+  .w-50 {
+    max-width: 48%;
+  }
+  .order-1, .order-2 {
+    order: unset;
+  }
+  .socials {
+    text-align: right;
+    .contact-list,
+    .social-media-list {
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+      justify-self: flex-end;
+      text-align: right;
+    }
   }
 }
 

@@ -3,12 +3,12 @@ layout: default
 ---
 <article class="post">
 
-  <div class="grid grid-cols-2">
+  <div class="grid sm:grid-cols-2-custom">
     
-      <div class="post-content">
+      <div class="post-content order-2">
         {{ content }}
       </div>
-      <div class="categories">
+      <div class="categories order-1">
         {%- include facets.html -%}
       </div>
   </div>

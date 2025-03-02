@@ -10,6 +10,12 @@ layout: default
   <h2>Commercial support</h2>
   <p>If you need professional support, there are many options available. The QGIS project maintains a register of recognised <a href="https://qgis.org/resources/support/commercial-support/" target="_blank">QGIS support providers</a>. There are a few Australian companies on this list, including QGIS core contributors North Road and Chartis Technology.</p>
 
+  <div class="inline-images">
+    <a href="https://chartistechnology.com/" target="_blank"><img class="centered-image w-25" src="/assets/img/support/logo_org_chartis.png" alt="Chartis logo"/></a>
+    <a href="https://north-road.com/" target="_blank"><img class="centered-image w-25" src="/assets/img/support/logo_org_northroad.png" alt="NorthRoad logo"/></a>
+  <div>
+
+
   <h2>Current Australian QGIS Sustaining members</h2>
   <p>Sustaining members are financial contributors to the QGIS project, providing about 2/3 of the total project budget.</p>
 
