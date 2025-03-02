@@ -37,8 +37,8 @@ This event would not have been possible without the incredible talents and coord
 
 Em Hain, Leo Ghigone (venue), Cholena Smart (t-shirts & stickers), John Bryant, Colin Mazengarb, Gaby Stannus, Simon Gatenby, and Dawn Hendrick (logistics and catering). 
 
-Thanks also go to [Mammoth Geospatial](https://mammothgeospatial.com/) and [North Road](https://north-road.com/) for providing their resources and staff support.
+<p>Thanks also go to <a href="https://mammothgeospatial.com/" target="_blank">Mammoth Geospatial</a> and <a href="https://north-road.com/" target="_blank">North Road</a> for providing their resources and staff support.</p>
 
-Finally, thank-you to our financial sponsor, [OSGeo Oceania](https://osgeo-oceania.org/), who supported through their grants program.
+<p>Finally, thank you to our financial sponsor, <a href="https://osgeo-oceania.org/" target="_blank">OSGeo Oceania</a>, who supported through their grants program.</p>
 
 <img class="centered-image" src="/assets/img/posts/UM2024dawn.png" alt= "Dawn"/>

@@ -11,8 +11,8 @@ layout: default
   <p>If you need professional support, there are many options available. The QGIS project maintains a register of recognised <a href="https://qgis.org/resources/support/commercial-support/" target="_blank">QGIS support providers</a>. There are a few Australian companies on this list, including QGIS core contributors North Road and Chartis Technology.</p>
 
   <div class="inline-images">
-    <a href="https://chartistechnology.com/" target="_blank"><img class="centered-image w-25" src="/assets/img/support/logo_org_chartis.png" alt="Chartis logo"/></a>
     <a href="https://north-road.com/" target="_blank"><img class="centered-image w-25" src="/assets/img/support/logo_org_northroad.png" alt="NorthRoad logo"/></a>
+    <a href="https://chartistechnology.com/" target="_blank"><img class="centered-image w-25" src="/assets/img/support/logo_org_chartis.png" alt="Chartis logo"/></a>
   <div>
 
 
@@ -23,7 +23,7 @@ layout: default
 
 {% for level in member_levels %}
   {% assign has_members = false %}
-  
+
   {% for member in site.data.sustaining.rss.channel.item %}
     {% if member.member_country == "Australia" and member.member_level == level %}
       {% assign has_members = true %}
@@ -41,7 +41,7 @@ layout: default
       <div class="grid grid-cols-2 sm:grid-cols-3 {{ grid_class }}">
         {% assign seen_members = "" %}
         {% for member in site.data.sustaining.rss.channel.item %}
-          {% assign member_key = member.title | append: member.member_url %}  
+          {% assign member_key = member.title | append: member.member_url %}
           {% if member.member_country == "Australia" and member.member_level == level %}
             {% unless seen_members contains member_key %}
               <div class="sustaining-members">

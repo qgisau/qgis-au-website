@@ -20,32 +20,32 @@ tag: [QGIS]
     <tr>
       <td><a href="https://github.com/qgis/QGIS-Enhancement-Proposals/issues/291" target="_blank">Mitigate Abusive Tile Fetching on OpenStreetMap (OSM) Servers</a></td>
       <td>@nirvn</td>
-      <td>€3,300.00</td>
+      <td>€3300</td>
     </tr>
     <tr>
       <td><a href="https://github.com/qgis/QGIS-Enhancement-Proposals/issues/292" target="_blank">Implementing CI Qt6 Windows Builds through vcpkg</a></td>
       <td>@m-kuhn</td>
-      <td>€14,000.00</td>
+      <td>€14000</td>
     </tr>
     <tr>
       <td><a href="https://github.com/qgis/QGIS-Enhancement-Proposals/issues/287" target="_blank">PyQGIS linter warnings</a></td>
       <td>@troopa81</td>
-      <td>€5,200.00</td>
+      <td>€5200</td>
     </tr>
     <tr>
       <td><a href="https://github.com/qgis/QGIS-Enhancement-Proposals/issues/269" target="_blank">Update older annotation items to new framework</a></td>
       <td>@nyalldawson</td>
-      <td>€8,000.00</td>
+      <td>€8000</td>
     </tr>
     <tr>
       <td><a href="https://github.com/qgis/QGIS-Enhancement-Proposals/issues/290" target="_blank">Clean up point cloud index and improve its thread safety</a></td>
       <td>@wonder-sk</td>
-      <td>€3,000.00</td>
+      <td>€3000</td>
     </tr>
     <tr>
       <td><a href="https://github.com/qgis/QGIS-Enhancement-Proposals/issues/294" target="_blank">Fix access to remote data sources in WebAssembly builds</a></td>
       <td>@wonder-sk</td>
-      <td>€4,000.00</td>
+      <td>€4000</td>
     </tr>
   </tbody>
 </table>
