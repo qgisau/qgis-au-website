@@ -114,8 +114,7 @@ To add a standard page
   <div>
   ```
 
-  - See these two posts for examples:
-    - 2017-11-17-qgis-meetup-sydney-2017
+  - See this post for a w-50 example:
     - 2024-11-28-qgis-user-meeting-hobart
 
 
