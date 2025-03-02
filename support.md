@@ -1,6 +1,7 @@
 ---
 title: Support
 layout: default
+permalink: /support/
 ---
 
 <div>
