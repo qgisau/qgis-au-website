@@ -45,7 +45,7 @@ If you are overriding the css, you must use the scss files (which get built as c
 
 To add a standard page
 - Create a new markdown page in the root directory (e.g. test.md)
-- Add 'front matter' (i.e. the info at the top of the page). 
+- Add 'front matter' (i.e. the info at the top of the page).
 - It will also automatically create the page title at the top of the page, so don't add another h1 tag to the page.
 - You can add markdown, or html, or both to the page.
 - example:
@@ -54,12 +54,13 @@ To add a standard page
   ---
   layout: default
   title: Test Page
+  permalink: /test-page/
   ---
 
-  <div> 
+  <div>
     I am a test page
   </div>
-  
+
   ```
 
 ### Adding top level menu items
@@ -70,8 +71,8 @@ To add a standard page
 
 1. Edit the header_image.yml file under _data
 2. Upload an image in assets/img/home/header
-  - Prefered dimensions of the image are something like 2500px x 600px (a smaller height is better if the image allows). 
-  - Prefered format is .webp (this is optimised for web), but other formats are fine. 
+  - Prefered dimensions of the image are something like 2500px x 600px (a smaller height is better if the image allows).
+  - Prefered format is .webp (this is optimised for web), but other formats are fine.
   - Small is good - if its 300 dpi then downsize it to something like 72dpi. You can try optimising with the free version of tinify: https://tinypng.com/. Aim for under 500 KB
   - check whether dark text or light text shows better for the description and adjust in the header_image.yml file.
 
@@ -90,8 +91,8 @@ To add a standard page
 ## Working with images
 -  Small is good - if its 300 dpi then downsize it to something like 72dpi. You can try optimising with the free version of tinify: https://tinypng.com/.
 - Images with no caption should use:
-  ``` 
-  <img class="centered-image" src="/assets/img/posts/image_name" alt="Image description"/> 
+  ```
+  <img class="centered-image" src="/assets/img/posts/image_name" alt="Image description"/>
   ```
 - Images with a caption should use:
     ```
@@ -116,5 +117,3 @@ To add a standard page
 
   - See this post for a w-50 example:
     - 2024-11-28-qgis-user-meeting-hobart
-
-
