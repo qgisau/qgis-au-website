@@ -8,3 +8,8 @@ These are following themes to be covered in posts:
 
 ## QGIS Processing
 - When should you use Native vs Grass/Saga & etc
+
+## QGIS Development
+- what is a QEP?
+- what can we do as QGIS AU
+- QGIS Grants
