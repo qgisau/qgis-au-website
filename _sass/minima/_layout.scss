@@ -128,18 +128,6 @@
   margin-bottom: $spacing-unit * 0.5;
 }
 
-.socials {
-  text-align: center;
-  .contact-list,
-  .social-media-list {
-    display: flex;
-    align-items: center;
-    gap: .5rem;
-    justify-self: center;
-    text-align: right;
-  }
-}
-
 .footer-col-wrapper {
   display: grid;
 }

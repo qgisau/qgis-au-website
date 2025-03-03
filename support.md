@@ -9,16 +9,19 @@ permalink: /support/
   <p>There are many free community resources available through mailing lists, YouTube videos, free tutorials and more! Check out our <a href="../resources">Resources</a> and the QGIS <a href="https://qgis.org/resources/support/" target="_blank">Contact and Support page</a> for more information.</p>
 
   <h2>Commercial support</h2>
-  <p>If you need professional support, there are many options available. The QGIS project maintains a register of recognised <a href="https://qgis.org/resources/support/commercial-support/" target="_blank">QGIS support providers</a>. There are a few Australian companies on this list, including QGIS core contributors North Road and Chartis Technology.</p>
+  <p>If you need professional support, there are many options available. The QGIS project maintains a register of recognised <a href="https://qgis.org/resources/support/commercial-support/" target="_blank">QGIS support providers</a>. There are a few Australian companies on this list.</p>
 
-  <div class="inline-images">
-    <a href="https://north-road.com/" target="_blank"><img class="centered-image w-25" src="/assets/img/support/logo_org_northroad.png" alt="NorthRoad logo"/></a>
-    <a href="https://chartistechnology.com/" target="_blank"><img class="centered-image w-25" src="/assets/img/support/logo_org_chartis.png" alt="Chartis logo"/></a>
-  <div>
+  <p>This list includes Australian QGIS core contributors:</p>
+
+  <div class="core-contrib">
+   <a href="https://north-road.com/" target="_blank"><img src="/assets/img/support/logo_org_northroad.png" alt="NorthRoad logo"/></a>
+   </div>
 
 
-  <h2>Current Australian QGIS Sustaining members</h2>
+  <h2>Giving back</h2>
+
   <p>Sustaining members are financial contributors to the QGIS project, providing about 2/3 of the total project budget.</p>
+  <h3>Current Australian QGIS Sustaining members</h3>
 
 {% assign member_levels = "Medium,Small,Flagship,Large" | split: "," %}
 

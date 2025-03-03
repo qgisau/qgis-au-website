@@ -142,6 +142,7 @@ nav a.page-link.active {
   img {
     max-height: 100px;
     width: 100%;
+    height: 100%;
   }
 }
 
@@ -210,6 +211,22 @@ nav a.page-link.active {
 }
 
 
+.socials {
+  text-align: center;
+  .contact-list,
+  .social-media-list {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    justify-content: center;
+    text-align: right;
+  }
+}
+
+.core-contrib img {
+  max-width: 80%;
+}
+
 @media (min-width: 640px) {
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, 1fr);
@@ -219,6 +236,9 @@ nav a.page-link.active {
   }
   .sm\:grid-cols-3 {
     grid-template-columns: repeat(3, 1fr);
+  }
+  .core-contrib img {
+    max-width: 23%;
   }
   .w-25 {
     max-width: 23%;
