@@ -6,6 +6,14 @@ These are following themes to be covered in posts:
 - Corporate wide
 - Ensuring Uniformity and Standards - company plugin
 
+## Tips & tricks
+- optimising GeoTIFFs
+- connecting to PostGIS
+- fetching OSM data w/ QuickOSM plugin
+- using multiple styles & map themes
+- manual labelling
+- using 3d tiles
+
 ## QGIS Processing
 - When should you use Native vs Grass/Saga & etc
 
