@@ -7,7 +7,7 @@ tags: [Events, QGIS]
 
 ---
 
-<img class="centered-image" src="/assets/img/posts/rainyday-qgisaubne-meeting.png" alt="QGIS BNE 2025"/>
+<img class="centered-image" src="/assets/img/posts/rainyday-qgisaubne-meeting.jpg" alt="QGIS BNE 2025"/>
 
 Please joins us for an informal meet-up to connect and catch-up with each other. The event is free and everyone is welcome to attend. Fingerfood will be provided. 
 
