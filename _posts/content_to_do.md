@@ -21,3 +21,7 @@ These are following themes to be covered in posts:
 - what is a QEP?
 - what can we do as QGIS AU
 - QGIS Grants
+
+## The OSGeo Movement
+- Complementary Products: check out the [OSGEO products](https://www.osgeo.org/choose-a-project/)
+- discuss the types of things you can find on the OSGEO Site
