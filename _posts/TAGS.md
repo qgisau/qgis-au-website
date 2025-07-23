@@ -4,7 +4,7 @@
 - Events
 
 - Hints and tips
-
+- Hobart
 - People
 
 - QGIS release
