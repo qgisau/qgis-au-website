@@ -6,8 +6,7 @@ author:
 tags: [Events, QGIS, Hobart]
 
 ---
-# Hobart QGIS User Group Social Meetup: save the date!  
-Time: 5.30-7pm 
+Time: 5.30-7pm   
 Date: Friday 15 August 2025  
 <img
   class="centered-image"
