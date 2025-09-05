@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hobart QGIS User Group Social September Meetup!"
+title:  "Tasmania QGIS User Group Social September Meetup!"
 date:   2025-09-04 14:56:25 +1100
 author: 
 tags: [Events, QGIS, Hobart]
