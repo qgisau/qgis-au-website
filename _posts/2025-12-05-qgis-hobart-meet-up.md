@@ -19,6 +19,6 @@ tags: [Events, QGIS, Hobart]
 />
 
 Come join us for the next informal social get together for all Tasmanian QGIS users and see the year out.
-Let’s meet over a drink to chat about the software or just to socialise with like-minded people. In addition, some may have been to the recent Auckland FOSS4G conference and will have stories to share.
-If you wish to have a meal together afterward, we can discuss options on the night.
+Let’s meet over a drink to chat about the software or just to socialise with like-minded people. In addition, some may have been to the recent Auckland FOSS4G conference and will have stories to share.  
+If you wish to have a meal together afterward, we can discuss options on the night.  
 Jump onto the [QGIS AU Discussion list](https://groups.google.com/g/australian-qgis-user-group) to be notified of updates as they happen! 
