@@ -80,7 +80,7 @@ To add a standard page
 ## Posts
 
 - It needs to have a date format at the start of the file name to be published. It needs to follow format YYYY-MM-DD-filename.md
-- The date field in the 'front matter' (ie between the --- at the top of post) can be forward posted, but a rebuild needs to be triggered to pubish it after the date has passed.
+- The date field in the 'front matter' (ie between the --- at the top of post) can be forward posted, but a rebuild needs to be triggered to publish it after the date has passed.
 - Generally, you should not start the post with an image. An excerpt from the beginning of your posts is what will show on the Posts page.
 - Author is optional.
 - Tag use should be consistent, paying special attention to use of captials. Inconsistent syntax will create a tag for each variation.

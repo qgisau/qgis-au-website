@@ -58,7 +58,7 @@ plugins:
 #   - vendor/ruby/
 jekyll_get_json:
   - data: sustaining
-    json: 'https://changelog.qgis.org/en/qgis/members/json/'
+    json: 'https://members.qgis.org/en/members/json/'
 
 
 nav:
