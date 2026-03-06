@@ -15,8 +15,6 @@ layout: home
 <p>If you're interested in getting involved, join the <a href="https://groups.google.com/g/australian-qgis-user-group" target="_blank">QGIS Australia discussion list</a> and introduce yourself. We'd love to hear from you!</p>
 </div>
 
-{%- include shout-out.html -%}
-
 <div>
 <h2>About QGIS</h2>
 <p>This open source software initiative has evolved over the years, through community-driven development, governance, and a shared commitment to providing powerful, accessible, and free GIS tools for everyone.</p>
