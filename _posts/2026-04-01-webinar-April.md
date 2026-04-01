@@ -20,21 +20,21 @@ QGIS Australia proudly announces our first ever webinar! This will be approximat
 **Meeting Link:**  <https://youtube.com/live/l5b_Vms6TC8?feature=share>.
 *To subscribe to the QGIS Australia YouTube channel:* <https://www.youtube.com/@QGISAustralia>
 
-**Programme**
+**Programme Overview**
 
-1. John Bryant will begin with a short introduction to outline the intent of the series, how it will run and any other QGIS AU matters.
+1. **Introductions** John Bryant
+2. **_Favorite Geoscience Plug-Ins_** Grant Boxer
+3. **_About QGIS 4.0_** Nyall Dawson
 
-This will be followed by 2 speakers of approximately 15 minutes duration each followed by questions:
-
-2. Grant Boxer will present a talk entitled: **_Favorite Geoscience Plug-Ins_**
-
+## Presentations
+### Favorite Geoscience Plug-Ins - Grant Boxer
 Geologists use QGIS very differently to the majority of worldwide QGIS users. There are not many on-line videos specifically targeting geologists. This presentation will run through a compilation of the plug-ins I use frequently for my geological consulting work, for such things as importing photos, plotting drill holes in section and plan, analysing geochemical data sets, geophysical grid filtering and satellite image processing. I will also talk about using AI for increasing your productivity - it can be a real game changer!
 
-Grant Boxer
+<img src="/assets/img/posts/EnMap.jpg" alt="Description" style="width: 400px;">
 
 Grant is an exploration geologist who has been working in the exploration and mining sector for over 40 years and started using QGIS at version 2.8. During the past 10 years, Grant has been actively promoting QGIS in the mineral industry and running training courses for geologists in using QGIS for MIneral Exploration. Grant is also one of the QGIS Australia ‘Coordinators’ and his talk will have wide appeal amongst the greater geoscience community.
 
-3. Nyall Dawson will present a talk entitled:  **_About QGIS 4.0_**
+Nyall Dawson will present a talk entitled:  **_About QGIS 4.0_** Nyall Dawson
 
 The release of QGIS v4 is a major milestone for the QGIS project, and with it, many questions. Nyall will delve into this new release, what it delivers for you and will answer those burning questions you might have. To lodge a question prior to the webinar, complete this [form](https://forms.gle/Gf9G4w8yjkZRFEST7). 
 
