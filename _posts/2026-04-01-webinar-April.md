@@ -32,11 +32,12 @@ QGIS Australia proudly announces our first ever webinar! This will be approximat
 Geologists use QGIS very differently to the majority of worldwide QGIS users. There are not many on-line videos specifically targeting geologists. This presentation will run through a compilation of the plug-ins I use frequently for my geological consulting work, for such things as importing photos, plotting drill holes in section and plan, analysing geochemical data sets, geophysical grid filtering and satellite image processing. I will also talk about using AI for increasing your productivity - it can be a real game changer!
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    <img src="/assets/img/posts/gb-2026.png" style="width: 50%;">
+  <div style="flex: none;">
+    <img src="/assets/img/posts/gb-2026.png" style="width: 150%; display: block;"">
   </div>
-  <div style="flex: 2;">
-    <h3>About Grant</h3>
+   
+ <div style="flex: 2;">
+    <h3 style="margin-top: 0;">About Grant</h3>
     <p>Grant is an exploration geologist who has been working in the exploration and mining sector for over 40 years and started using QGIS at version 2.8. During the past 10 years, Grant has been actively promoting QGIS in the mineral industry and running training courses for geologists in using QGIS for MIneral Exploration. Grant is also one of the QGIS Australia ‘Coordinators’ and his talk will have wide appeal amongst the greater geoscience community.</p>
   </div>
 </div>
@@ -46,11 +47,12 @@ Geologists use QGIS very differently to the majority of worldwide QGIS users. Th
 The release of QGIS v4 is a major milestone for the QGIS project, and with it, many questions. Nyall will delve into this new release, what it delivers for you and will answer those burning questions you might have. To lodge a question prior to the webinar, complete this [form](https://forms.gle/Gf9G4w8yjkZRFEST7). 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    <img src="/assets/img/posts/NH.png" style="width: 50%;">
+  <div style="flex: none;">
+    <img src="/assets/img/posts/NH.png" style="width: 150%; display: block;"">
   </div>
-  <div style="flex: 2;">
-    <h3>About Nyall</h3>
+  
+ <div style="flex: 2;">
+    <h3 style="margin-top: 0;">About Nyall</h3>
     <p>Nyall has been a developer with the QGIS project since 2013. During this time, he has contributed over 5000 additions to the project and today is one of the most active developers on the project. Nyall’s contributions cover a wide range of areas – from improvements to the map rendering and symbology engines, enhancements to labelling and print layout functionality, right through to optimisations of the underlying spatial processing algorithms utilised by QGIS.</p><p>Nyall is the proprietor of North Road Consulting, an Australian based spatial development consultancy which predominantly utilises international co-funding and crowd-funding campaigns to finance development into open-source GIS applications.</p>
   </div>
 </div>
