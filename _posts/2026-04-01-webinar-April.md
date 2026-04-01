@@ -49,7 +49,7 @@ The release of QGIS v4 is a major milestone for the QGIS project, and with it, m
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: none;">
-    <img src="/assets/img/posts/NH.png" style="width: 200px; display: block;"">
+    <img src="/assets/img/posts/NH.png" style="width: 200px; display: block;">
   </div>
    <div style="flex: 2;">
     <h3 style="margin-top: 0;">About Nyall</h3>
