@@ -6,7 +6,9 @@ author:
 tags: [Events, QGIS, Online, Webinar, Live]
 
 ---
-<img src="/assets/img/posts/qgisau-webinar.png" alt="Description" style="width: 400px;">  
+<img src="/assets/img/posts/qgisau-webinar.png" 
+     alt="Webinar" 
+     style="width: 400px; display: block; margin: auto;">  
 QGIS Australia proudly announces our first ever webinar! This will be approximately 40 minutes duration with the meeting link and details below. Please be sure to mark this in your calendar and distribute this to your network to ensure the word gets out. 
 
 **Date: 30 April 2026**
@@ -28,7 +30,7 @@ QGIS Australia proudly announces our first ever webinar! This will be approximat
 
 ## Presentations
 ### Favorite Geoscience Plug-Ins - Grant Boxer
-<img src="/assets/img/posts/EnMap.jpg" alt="Description" style="width: 400px;">  
+<img src="/assets/img/posts/EnMap.jpg" alt="Grant Boxer" style="width: 400px;">  
 Geologists use QGIS very differently to the majority of worldwide QGIS users. There are not many on-line videos specifically targeting geologists. This presentation will run through a compilation of the plug-ins I use frequently for my geological consulting work, for such things as importing photos, plotting drill holes in section and plan, analysing geochemical data sets, geophysical grid filtering and satellite image processing. I will also talk about using AI for increasing your productivity - it can be a real game changer!
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -43,7 +45,7 @@ Geologists use QGIS very differently to the majority of worldwide QGIS users. Th
 </div>
 
 ## About QGIS 4.0 - Nyall Dawson
-<img src="/assets/img/posts/splash40.png" alt="Description" style="width: 400px;">  
+<img src="/assets/img/posts/splash40.png" alt="Nyall Dawson" style="width: 400px;">  
 The release of QGIS v4 is a major milestone for the QGIS project, and with it, many questions. Nyall will delve into this new release, what it delivers for you and will answer those burning questions you might have. To lodge a question prior to the webinar, complete this [form](https://forms.gle/Gf9G4w8yjkZRFEST7). 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
