@@ -45,7 +45,7 @@ Geologists use QGIS very differently to the majority of worldwide QGIS users. Th
 
 ## About QGIS 4.0 - Nyall Dawson
 <img src="/assets/img/posts/splash40.png" alt="Nyall Dawson" style="width: 400px;">  
-The release of QGIS v4 is a major milestone for the QGIS project, and with it, many questions. Nyall will delve into this new release, what it delivers for you and will answer those burning questions you might have. To lodge a question prior to the webinar, complete this [form](https://forms.gle/Gf9G4w8yjkZRFEST7). 
+The release of QGIS v4 is a major milestone for the QGIS project, and with it, many questions. Nyall will delve into this new release, what it delivers for you and will answer those burning questions you might have. To lodge a question prior to the webinar, complete this [form](https://forms.gle/Gf9G4w8yjkZRFEST7){:target="_blank"}. 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: none;">
