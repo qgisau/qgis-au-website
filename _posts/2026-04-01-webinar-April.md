@@ -6,7 +6,7 @@ author:
 tags: [Events, QGIS, Online, Webinar, Live]
 
 ---
-<img src="/assets/img/posts/qgisau-webinar.png" alt="Description" style="width: 400px;">
+<img src="/assets/img/posts/qgisau-webinar.png" alt="Description" style="width: 400px;">  
 QGIS Australia proudly announces our first ever webinar! This will be approximately 40 minutes duration with the meeting link and details below. Please be sure to mark this in your calendar and distribute this to your network to ensure the word gets out. 
 
 **Date: 30 April 2026**
@@ -33,7 +33,7 @@ Geologists use QGIS very differently to the majority of worldwide QGIS users. Th
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
-    <img src="/assets/img/posts/gb-2026.png" style="width: 100%;">
+    <img src="/assets/img/posts/gb-2026.png" style="width: 50%;">
   </div>
   <div style="flex: 2;">
     <h3>About Grant</h3>
@@ -41,15 +41,19 @@ Geologists use QGIS very differently to the majority of worldwide QGIS users. Th
   </div>
 </div>
 
-Nyall Dawson will present a talk entitled:  **_About QGIS 4.0_** Nyall Dawson
-
+## About QGIS 4.0 - Nyall Dawson
+<img src="/assets/img/posts/splash40.png" alt="Description" style="width: 400px;">  
 The release of QGIS v4 is a major milestone for the QGIS project, and with it, many questions. Nyall will delve into this new release, what it delivers for you and will answer those burning questions you might have. To lodge a question prior to the webinar, complete this [form](https://forms.gle/Gf9G4w8yjkZRFEST7). 
 
-Nyall Dawson    
-
-Nyall has been a developer with the QGIS project since 2013. During this time, he has contributed over 5000 additions to the project and today is one of the most active developers on the project. Nyall’s contributions cover a wide range of areas – from improvements to the map rendering and symbology engines, enhancements to labelling and print layout functionality, right through to optimisations of the underlying spatial processing algorithms utilised by QGIS.
-
-Nyall is the proprietor of North Road Consulting, an Australian based spatial development consultancy which predominantly utilises international co-funding and crowd-funding campaigns to finance development into open-source GIS applications.
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    <img src="/assets/img/posts/NH.png" style="width: 50%;">
+  </div>
+  <div style="flex: 2;">
+    <h3>About Nyall</h3>
+    <p>Nyall has been a developer with the QGIS project since 2013. During this time, he has contributed over 5000 additions to the project and today is one of the most active developers on the project. Nyall’s contributions cover a wide range of areas – from improvements to the map rendering and symbology engines, enhancements to labelling and print layout functionality, right through to optimisations of the underlying spatial processing algorithms utilised by QGIS.</p><p>Nyall is the proprietor of North Road Consulting, an Australian based spatial development consultancy which predominantly utilises international co-funding and crowd-funding campaigns to finance development into open-source GIS applications.</p>
+  </div>
+</div>
 
 **For those attending live, be sure to ask questions of Grant and Nyall via the chat box, but priority will be given to those submitted on the form beforehand.**
 
