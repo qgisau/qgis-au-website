@@ -12,3 +12,6 @@
 
 - QGIS AU
 - QGIS
+- Online
+- Webinar
+- Live
