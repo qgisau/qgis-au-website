@@ -28,11 +28,18 @@ QGIS Australia proudly announces our first ever webinar! This will be approximat
 
 ## Presentations
 ### Favorite Geoscience Plug-Ins - Grant Boxer
+<img src="/assets/img/posts/EnMap.jpg" alt="Description" style="width: 400px;">  
 Geologists use QGIS very differently to the majority of worldwide QGIS users. There are not many on-line videos specifically targeting geologists. This presentation will run through a compilation of the plug-ins I use frequently for my geological consulting work, for such things as importing photos, plotting drill holes in section and plan, analysing geochemical data sets, geophysical grid filtering and satellite image processing. I will also talk about using AI for increasing your productivity - it can be a real game changer!
 
-<img src="/assets/img/posts/EnMap.jpg" alt="Description" style="width: 400px;">
-
-Grant is an exploration geologist who has been working in the exploration and mining sector for over 40 years and started using QGIS at version 2.8. During the past 10 years, Grant has been actively promoting QGIS in the mineral industry and running training courses for geologists in using QGIS for MIneral Exploration. Grant is also one of the QGIS Australia ‘Coordinators’ and his talk will have wide appeal amongst the greater geoscience community.
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    <img src="/assets/img/posts/gb-2026.png" style="width: 100%;">
+  </div>
+  <div style="flex: 2;">
+    <h3>About Grant</h3>
+    <p>Grant is an exploration geologist who has been working in the exploration and mining sector for over 40 years and started using QGIS at version 2.8. During the past 10 years, Grant has been actively promoting QGIS in the mineral industry and running training courses for geologists in using QGIS for MIneral Exploration. Grant is also one of the QGIS Australia ‘Coordinators’ and his talk will have wide appeal amongst the greater geoscience community.</p>
+  </div>
+</div>
 
 Nyall Dawson will present a talk entitled:  **_About QGIS 4.0_** Nyall Dawson
 
