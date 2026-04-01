@@ -6,29 +6,19 @@ author:
 tags: [Events, QGIS, Online, Webinar, Live]
 
 ---
-QGIS Australia proudly announces our first ever webinar! This will be approximately 40 minutes duration with the meeting link and details below. Please be sure to mark this in your calendar and distribute this to your network to ensure the word gets out.
-<img
-  class="centered-image"
-  src="/assets/img/posts/Webinar-Series.png"
-  alt="QGIS Webinar Series"
-  style="width: 600px; display: block; margin: 0 auto;"
-/>
+<img src="/assets/img/posts/qgisau-webinar.png" alt="Description" style="width: 400px;">
+QGIS Australia proudly announces our first ever webinar! This will be approximately 40 minutes duration with the meeting link and details below. Please be sure to mark this in your calendar and distribute this to your network to ensure the word gets out. 
 
 **Date: 30 April 2026**
 
  **Time: Please note time-zones below**
+> WA: 1pm  
+> SA-NT: 2.30pm  
+> AEST: 3pm  
+> NZ: 5pm  
 
-WA: 1pm
-
-SA-NT: 2.30pm
-
-AEST: 3pm
-
-NZ: 5pm
-
-Meeting Link:  <https://youtube.com/live/l5b_Vms6TC8?feature=share>.
-
-QGIS Australia YouTube channel: Should you wish to subscribe to the QGIS Australia YouTube channel here is the link: <https://www.youtube.com/@QGISAustralia>
+**Meeting Link:**  <https://youtube.com/live/l5b_Vms6TC8?feature=share>.
+*To subscribe to the QGIS Australia YouTube channel:* <https://www.youtube.com/@QGISAustralia>
 
 **Programme**
 
@@ -54,9 +44,6 @@ Nyall has been a developer with the QGIS project since 2013. During this time, h
 
 Nyall is the proprietor of North Road Consulting, an Australian based spatial development consultancy which predominantly utilises international co-funding and crowd-funding campaigns to finance development into open-source GIS applications.
 
-\
-
-
-For those attending live, be sure to ask questions of Grant and Nyall via the chat box, but priority will be given to those submitted on the form beforehand. 
+**For those attending live, be sure to ask questions of Grant and Nyall via the chat box, but priority will be given to those submitted on the form beforehand.**
 
 We look forward to meeting you all.
