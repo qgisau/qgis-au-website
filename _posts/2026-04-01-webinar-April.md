@@ -35,11 +35,11 @@ Geologists use QGIS very differently to the majority of worldwide QGIS users. Th
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: none;">
-    <img src="/assets/img/posts/gb-2026.png" style="width: 150%; display: block;"">
+    <img src="/assets/img/posts/gb-2026.png" style="width: 200px; display: block;">
   </div>
- <div style="flex: 2;">
+  <div style="flex: 2;">
     <h3 style="margin-top: 0;">About Grant</h3>
-    <p>Grant is an exploration geologist who has been working in the exploration and mining sector for over 40 years and started using QGIS at version 2.8. During the past 10 years, Grant has been actively promoting QGIS in the mineral industry and running training courses for geologists in using QGIS for MIneral Exploration. Grant is also one of the QGIS Australia ‘Coordinators’ and his talk will have wide appeal amongst the greater geoscience community.</p>
+    <p>Grant is an exploration geologist who has been working in the exploration and mining sector for over 40 years and started using QGIS at version 2.8. During the past 10 years, Grant has been actively promoting QGIS in the mineral industry and running training courses for geologists in using QGIS for Mineral Exploration. Grant is also one of the QGIS Australia ‘Coordinators’ and his talk will have wide appeal amongst the greater geoscience community.</p>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ The release of QGIS v4 is a major milestone for the QGIS project, and with it, m
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: none;">
-    <img src="/assets/img/posts/NH.png" style="width: 150%; display: block;"">
+    <img src="/assets/img/posts/NH.png" style="width: 200px; display: block;"">
   </div>
    <div style="flex: 2;">
     <h3 style="margin-top: 0;">About Nyall</h3>
