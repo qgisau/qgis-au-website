@@ -3,7 +3,7 @@ layout: post
 title:  "Inaugural QGIS Australia Hackfest 2017"
 date:   2017-05-17 14:56:25 +1100
 author: 
-tag: [Events, QGIS AU]
+tag: [Past Events, QGIS AU]
 ---
 
 The first QGIS Australia Hackfest Developer Meeting was held in Noosa in 2017, attended by Nyall Dawson, Nathan Woodrow and Martin Dobias.
