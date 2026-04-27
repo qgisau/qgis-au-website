@@ -3,7 +3,7 @@ layout: post
 title:  "QGIS Australia Inaugural webinar: Geoscience plugins and QGIS4 - save the date!"
 date:   2026-04-01 14:00:00 +1100
 author: 
-tags: [Upcoming Events, QGIS, Online, Webinar, Live]
+tags: [Events, QGIS, Online, Webinar, Live]
 
 ---
 <img src="/assets/img/posts/qgisau-webinar.png" 
