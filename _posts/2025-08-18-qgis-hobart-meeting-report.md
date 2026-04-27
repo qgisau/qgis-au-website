@@ -3,7 +3,7 @@ layout: post
 title:  "Hobart QGIS User Group Social Meetup sees the birth of the Tasmanian QGIS User Group"
 date:   2025-08-18 08:00:00 +1100
 author: Colin Mazenburg
-tags: [Events, QGIS, Hobart, Tasmania]
+tags: [Past Events, QGIS, Hobart, Tasmania]
 
 ---
 
