@@ -3,7 +3,7 @@ layout: post
 title:  "QGIS Australia User Meeting Hobart 2024"
 date:   2024-11-28 14:56:25 +1100
 author: Emma
-tags: [Events, QGIS AU]
+tags: [Past Events, QGIS AU]
 
 ---
 
