@@ -3,7 +3,7 @@ layout: post
 title:  "Hobart QGIS User Group Social Meetup- December: save the date!"
 date:   2025-11-25 14:56:25 +1100
 author: 
-tags: [Events, QGIS, Hobart]
+tags: [Past Events, QGIS, Hobart]
 
 ---
 **Time:** 5-7pm   
