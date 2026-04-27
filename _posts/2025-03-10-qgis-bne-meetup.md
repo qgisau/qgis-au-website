@@ -3,7 +3,7 @@ layout: post
 title:  "QGIS Australia Brisbane Sunset Meet-up"
 date:   2025-03-10 14:56:25 +1100
 author:
-tags: [Events, QGIS]
+tags: [Past Events, QGIS]
 
 ---
 
