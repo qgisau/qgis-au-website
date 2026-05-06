@@ -16,3 +16,4 @@
 - Online
 - Webinar
 - Live
+- Conferences
