@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "QGIS USer Conference, Laax, Switzerland!"
+date:   2026-04-01 14:00:00 +1100
+author: 
+tags: [Events, QGIS, Conferences, Live]
+
+---
+<img src="/assets/img/posts/QUC-2026.png" 
+     alt="QGIS User Conference 2026, Laax, Switzerland" 
+     style="width: 400px; display: block; margin: auto;">  
+
+## Dates 
+- Outdoor day and Welcome: 4 October 
+- Conference: 5-6 October 
+- Workshops and QField excusion: 7 October
+- Contributor Meeting 8-10 October
+For more information, check out the [Schedule](https://conference.qgis.org/schedule/)
+
+[Conference Website](https://uc2026.qgis.org/)
+[Getting there](https://uc2026.qgis.org/attending/#getting-there) - best to fly into Zurich Airport. 
+
+Let us know if you are going!
