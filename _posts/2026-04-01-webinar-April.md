@@ -20,7 +20,7 @@ QGIS Australia proudly announces our first ever webinar! This will be approximat
 > NZ: 5pm  
 
 **Meeting Link:**  <http://meet.google.com/zjf-gkaw-hgf>  
-*To subscribe to the QGIS Australia YouTube channel:* <https://www.youtube.com/@QGISAustralia>
+*To subscribe to the QGIS Australia YouTube channel and view recordings:* <https://www.youtube.com/@QGISAustralia>
 
 **Programme Overview**
 
