@@ -6,7 +6,7 @@ author:
 tags: [Events, QGIS, Online, Webinar, Live]
 
 ---
-<img src="/assets/img/posts/webinar-july-26.png" 
+<img src="/assets/img/posts/rnd-webinar-july-26.png" 
      alt="QGIS July Webinar" 
      style="width: 400px; display: block; margin: auto;">  
 QGIS Australia are following up their popular [first webinar](https://youtu.be/xtu1XVq88DQ?si=AwasmahA89f4eGMX) with July's deep dive into Urban Development Modelling and Australian GIS Data Sources. This will be approximately 1 hour duration with the details below. Please be sure to mark this in your calendar and distribute this to your network to ensure the word gets out. 
