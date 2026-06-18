@@ -19,7 +19,7 @@ QGIS Australia are following up their popular [first webinar](https://youtu.be/x
 > AEST: 1pm  
 > NZ: 3pm  
 
-**Meeting Link:**  <https://meet.google.com/zdc-cueg-ufz>  
+**Meeting Link:**  <https://meet.google.com/fwi-wqyp-vic>  (updated 18/06/2026)  
 *To subscribe to the QGIS Australia YouTube channel and view recordings:* <https://www.youtube.com/@QGISAustralia>  
 
 **Programme Overview**
