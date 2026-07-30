@@ -3,7 +3,7 @@ layout: post
 title:  "QGIS Australia webinar: Urban Development Modelling and Australian GIS Datasets - save the date!"
 date:   2026-06-16 12:00:00 +1100
 author: 
-tags: [Events, QGIS, Online, Webinar, Live]
+tags: [Past Events, QGIS, Online, Webinar, Live]
 
 ---
 <img src="/assets/img/posts/rnd-webinar-july-26.png" 
