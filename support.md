@@ -24,11 +24,13 @@ permalink: /support/
   <h3>Current Australian QGIS Sustaining members</h3>
 
 {% assign member_levels = "Medium,Small,Flagship,Large" | split: "," %}
+{% assign sorted_members = site.data.sustaining.rss.channel.item | sort_natural: "title" %}
+
 
 {% for level in member_levels %}
   {% assign has_members = false %}
 
-  {% for member in site.data.sustaining.rss.channel.item %}
+  {% for member in sorted_members %}
     {% if member.member_country == "Australia" and member.member_level == level %}
       {% assign has_members = true %}
       {% break %}
@@ -44,7 +46,7 @@ permalink: /support/
       {% endif %}
       <div class="grid grid-cols-2 sm:grid-cols-3 {{ grid_class }}">
         {% assign seen_members = "" %}
-        {% for member in site.data.sustaining.rss.channel.item %}
+        {% for member in sorted_members %}
           {% assign member_key = member.title | append: member.member_url %}
           {% if member.member_country == "Australia" and member.member_level == level %}
             {% unless seen_members contains member_key %}
